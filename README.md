@@ -1,4 +1,3 @@
-# NLP_Group48
 # NLP 2025 Assignments – Vrije Universiteit Amsterdam
 
 This repository contains all coursework for the *Natural Language Processing* (NLP) course at Vrije Universiteit Amsterdam, Spring 2025.
@@ -18,5 +17,3 @@ This assignment explores core techniques in statistical NLP:
 
 This assignment was created for the *NLP 2025* course at Vrije Universiteit Amsterdam.
 ---
-
-Please refer to the respective folders for implementation details, results, and analysis.
