@@ -6,9 +6,9 @@ from collections import Counter
 import matplotlib.pyplot as plt
 import re
 
-nltk.download('brown')
-nltk.download('averaged_perceptron_tagger')
-nltk.download('wordnet')
+# nltk.download('brown')
+# nltk.download('averaged_perceptron_tagger')
+# nltk.download('wordnet')
 
 
 lemmatizer = WordNetLemmatizer()
@@ -36,7 +36,7 @@ def analyze_corpus(corpus_words, corpus_sents, name):
     types = len(set(corpus_words))
     words_count = len(cleaned_words)
     
-    avg_words_per_sent = tokens / len(corpus_sents)
+    avg_words_per_sent = tokens/len(corpus_sents)
     
 
     total_length = 0
