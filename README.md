@@ -14,6 +14,7 @@ This assignment explores core techniques in statistical NLP:
 - **Word Vector Representations** using co-occurrence statistics
 - Optional: **Pointwise Mutual Information (PMI & PPMI)** for modeling statistical dependence
 
+The code for A2.1 is contained in problem1.py, for A2.2 the final code is presented in NLP_A2_final.ipynb and the code for the bonus question is present in pmi.ipynb.
 
 This assignment was created for the *NLP 2025* course at Vrije Universiteit Amsterdam.
 ---
