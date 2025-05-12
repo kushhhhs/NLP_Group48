@@ -1,0 +1,71 @@
+Top 20 PMI pairs:
+
+     word1    word2      pmi     ppmi  count
+    fulton   county 6.078540 6.078540      6
+      jury     said 5.452936 5.452936      8
+     there      was 5.163429 5.163429      3
+      will       be 5.008151 5.008151      4
+department      has 4.563967 4.563967      1
+department       is 4.300933 4.300933      1
+  election      was 4.230544 4.230544      2
+     which      has 4.185456 4.185456      1
+      said    there 4.163429 4.163429      2
+        on   fulton 4.078540 4.078540      1
+        by   fulton 4.078540 4.078540      1
+    county      has 3.979005 3.979005      1
+      said       it 3.959896 3.959896      3
+      that    there 3.941037 3.941037      2
+        as      his 3.922421 3.922421      1
+        as    state 3.922421 3.922421      1
+       his election 3.815506 3.815506      1
+        it      was 3.789971 3.789971      2
+        it      has 3.637968 3.637968      1
+    county    which 3.600493 3.600493      1
+
+Bottom 20 PMI pairs:
+
+     word1    word2       pmi     ppmi  count
+         s       in -1.895464 0.000000      1
+         s          -1.573536 0.000000      1
+                the -1.077579 0.000000      1
+      said      the -0.662541 0.000000      1
+        be      the -0.469896 0.000000      1
+         s election -0.380891 0.000000      1
+         s   fulton -0.380891 0.000000      1
+         s        a -0.328424 0.000000      4
+        it      the -0.325506 0.000000      1
+         s       as -0.273976 0.000000      1
+       was      the -0.247504 0.000000      1
+         s    state -0.158499 0.000000      1
+       the          -0.077579 0.000000      2
+         s    there -0.032968 0.000000      1
+department        s  0.104536 0.104536      1
+         s       on  0.104536 0.104536      1
+  election      the  0.115066 0.115066      1
+        to      the  0.141062 0.141062      4
+       and      the  0.185456 0.185456      3
+        as      the  0.221982 0.221982      1
+
+Top 20 PPMI pairs:
+
+     word1    word2      pmi     ppmi  count
+    fulton   county 6.078540 6.078540      6
+      jury     said 5.452936 5.452936      8
+     there      was 5.163429 5.163429      3
+      will       be 5.008151 5.008151      4
+department      has 4.563967 4.563967      1
+department       is 4.300933 4.300933      1
+  election      was 4.230544 4.230544      2
+     which      has 4.185456 4.185456      1
+      said    there 4.163429 4.163429      2
+        on   fulton 4.078540 4.078540      1
+        by   fulton 4.078540 4.078540      1
+    county      has 3.979005 3.979005      1
+      said       it 3.959896 3.959896      3
+      that    there 3.941037 3.941037      2
+        as      his 3.922421 3.922421      1
+        as    state 3.922421 3.922421      1
+       his election 3.815506 3.815506      1
+        it      was 3.789971 3.789971      2
+        it      has 3.637968 3.637968      1
+    county    which 3.600493 3.600493      1
